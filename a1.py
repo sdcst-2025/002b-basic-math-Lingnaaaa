@@ -5,7 +5,7 @@
 
 
 
-x = 10
-y = 4
-answer = 
-print( answer )
+x = 5
+y = 2
+answer = x + y
+print(f"The answer is {answer}" )
